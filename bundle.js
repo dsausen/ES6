@@ -36,7 +36,7 @@ document.getElementById("novotodo").onclick = () => {
         return a + b
     }
 }
-console.log(Math.sum(1, 2)) */
+console.log(Math.sum(1, 2))*/
 //const & let=====================================================
 
 /* const usuario = {nome: "Daniel"} //constantes não podem ser reescritas, mas são mutáveis
